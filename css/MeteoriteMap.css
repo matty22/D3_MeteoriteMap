@@ -1,1 +1,35 @@
 /*MeteoriteMap.css*/
+
+.svgBG {
+  background-color: #73c2cc;
+}
+
+#title {
+  text-align: center;
+}
+
+.country {
+  fill: #ccaa73;
+  stroke: #000000;
+  stroke-width: 0.5;
+}
+
+.strikes {
+  stroke: #ffffff;
+  opacity: 0.3;
+}
+
+.strikes:hover {
+  opacity: 0.7;
+}
+
+.tooltipStyles {
+  position: fixed;
+  display: none;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  padding: 5px 10px;
+  opacity: 0.8;
+}
