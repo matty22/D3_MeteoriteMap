@@ -10,7 +10,7 @@ The user can hover over each meteorite strike to get information about the meteo
 
 This project has open issues. Development is based on the development branch. To contribute, follow these steps:
 
-* `git clone https://github.com/matty22/vue-pomodoro.git`
+* `git clone https://github.com/matty22/D3_MeteoriteMap.git`
 * `git checkout development`
 * `git checkout -b issue-label/reference-to-issue` (ex. bug/fix-grammar-error)
 
